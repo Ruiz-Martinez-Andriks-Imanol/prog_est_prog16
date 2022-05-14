@@ -1,10 +1,10 @@
 
-/* Autor: Andriks Imanol Ruiz Mártinez, Realizado: 24/02/2022
+/* Autor: Andriks Imanol Ruiz MÃ¡rtinez, Realizado: 24/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa 
-Materia: Programación Estructrada 
+Materia: ProgramaciÃ³n Estructrada 
 Ciclo: 01/2022
 
-Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programación Estructurada<br>
+Este es un programa de ciclos y condicionales en Lenguaje C de la materia de ProgramaciÃ³n Estructurada<br>
 Muestra el uso de:
   
     -Variables enteras y flotantes
@@ -14,7 +14,7 @@ Muestra el uso de:
     -do-while
     -Contador
     -Condicionales
-    -Comentarios para la doumentación interna del programa
+    -Comentarios para la documentaciÃ³n interna del programa
 */
 #include<stdio.h>
 int main(){
@@ -28,7 +28,7 @@ int main(){
 		scanf("%f",&cal);
 		//validacion de cal que sea entre 1-10
 		if (cal>=0 && cal<=10){
-			i++; //Cuenta el número de calificaciones validas
+			i++; //Cuenta el nÃºmero de calificaciones validas
 			suma=suma+cal;
 			if (cal<7){
 				reprobadas++;
