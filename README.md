@@ -30,7 +30,7 @@ Debemos crear un programa que pide las calificaciones de un alumno y realize lo 
 <li>Calcula su porcentaje de aprobación</li>	
 <li>Se terminara de pedir datos cuando se introduzca un numero negativo</li>
 <li>El programa deve validar que las calificaciones sean validas(0-10)</li>
-
+</ul>
 <br>
 </p>
 
