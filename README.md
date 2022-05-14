@@ -14,7 +14,7 @@ Muestra el uso de:
     <li>do-while</li>
     <li>Contador</li>
     <li>Condicionales</li>
-    <li>Comentarios para la doumentación interna del programa.</li>
+    <li>Comentarios para la documentación interna del programa.</li>
     </ul>
     </p>
 <br>
